@@ -1,0 +1,91 @@
+body {
+  font-family: sans-serif;
+  background-image: url(https://rb.ru/media/upload_tmp/2018/d1.gif);
+}
+
+header {
+    text-align: center;
+    background-image: url(https://i.gifer.com/origin/95/95396fe4265aafabea4f81e2324dd7c0_w200.gif)
+
+  padding: 40px 0px 40px 25px;
+}
+
+.link-header {
+   border-radius: 10px;
+    color:lightgreen;
+  background-image: linear-gradient(to right,lightseagreen,grey);
+  padding: 5px 10px 5px 10px;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+nav {
+  padding: 35px 40px 0px 40px;
+}
+
+.link-nav {
+    padding: 10px;
+     border-radius:  10px;
+;
+  color: white;
+  font-size: 40px;
+  margin-right: 35px;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+  font-size: 96px;
+}
+
+p {
+  font-size: 33px;
+  color:lightseagreen;
+  margin-left: 60px;
+}
+
+ul {
+  font-size: 24px;
+  list-style: url("https://mars.algoritmika.org/uploads/2021/04/Arrow%201_0_1618309609.png");
+  margin-left: 60px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+ol {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+.text-big {
+  font-size: 48px;
+  margin-left: 60px;
+}
+  
+.link-text {
+  color: red;
+  text-decoration: none;
+  border-bottom: 2px solid blue;
+}
+
+h2 {
+  color: #006363;
+  font-size: 64px;
+}
+
+footer {
+  padding: 65px 0px 80px 80px;
+}
+
+.social {
+  margin-right: 60px
+}
+main{
+  background-image: url();
+
+  
+
+}
